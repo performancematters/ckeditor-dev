@@ -67,7 +67,7 @@ CKEDITOR.plugins.setLang( 'table', 'en', {
 	rows: 'Rows',
 	summary: 'Summary',
 	title: 'Table Properties',
-	toolbar: 'Table',
+	toolbar: 'Insert Table',
 	widthPc: 'percent',
 	widthPx: 'pixels',
 	widthUnit: 'width unit'
