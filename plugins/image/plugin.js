@@ -46,6 +46,7 @@
 			// Register the toolbar button.
 			editor.ui.addButton && editor.ui.addButton( 'Image', {
 				label: editor.lang.common.image,
+				title:editor.lang.image.tooltip,
 				command: pluginName,
 				toolbar: 'insert,10'
 			} );
