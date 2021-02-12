@@ -21,6 +21,5 @@ CKEDITOR.plugins.setLang( 'image', 'en-au', {
 	vSpace: 'VSpace',
 	validateBorder: 'Border must be a whole number.', // MISSING
 	validateHSpace: 'HSpace must be a whole number.', // MISSING
-	validateVSpace: 'VSpace must be a whole number.', // MISSING
-	tooltip:'Insert Image'
+	validateVSpace: 'VSpace must be a whole number.' // MISSING
 } );
