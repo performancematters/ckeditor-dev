@@ -70,5 +70,6 @@ CKEDITOR.plugins.setLang( 'table', 'en-ca', {
 	toolbar: 'Table',
 	widthPc: 'percent',
 	widthPx: 'pixels',
-	widthUnit: 'width unit' // MISSING
+	widthUnit: 'width unit', // MISSING
+	tooltip:'Insert Table'
 } );
