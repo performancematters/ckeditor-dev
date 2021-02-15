@@ -8,5 +8,6 @@ CKEDITOR.plugins.setLang( 'templates', 'bs', {
 	insertOption: 'Replace actual contents', // MISSING
 	options: 'Template Options', // MISSING
 	selectPromptMsg: 'Please select the template to open in the editor', // MISSING
-	title: 'Content Templates' // MISSING
+	title: 'Content Templates', // MISSING
+	tooltip:'Create Side-by-Side item'
 } );
