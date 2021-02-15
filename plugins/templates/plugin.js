@@ -41,6 +41,7 @@
 			editor.addCommand( 'templates',  command);
 			editor.ui.addButton && editor.ui.addButton( 'Templates', {
 				label: editor.lang.templates.button,
+				title: editor.lang.templates.tooltip,
 				command: 'templates',
 				toolbar: 'doctools,10'
 			} );
